@@ -1,12 +1,11 @@
 {
-  "name": "webpack-starter",
+  "name": "pixi-projects",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server"
   },
-  "repository": "https://github.com/casderooij/webpack-starter.git",
   "author": "Cas de Rooij",
   "license": "MIT",
   "devDependencies": {
