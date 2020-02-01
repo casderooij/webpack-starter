@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es2015", "dom"],
+    "module": "commonjs",
+    "typeRoots": ["./typings", "./node_modules/@types"],
+    "noImplicitAny": false,
+    "strictFunctionTypes": true,
+    "alwaysStrict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["./templates"]
+}
